@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+I'm Saravanan Subramaniam, a software engineer based in Tamil Nadu, India.
 
-Feel free to tell the world about what you love! 😍
+## Contact
+You can find me on [X](https://www.x.com/vsr_saravanan)
